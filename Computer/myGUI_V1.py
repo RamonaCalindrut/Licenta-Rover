@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar  5 13:12:47 2018
-
-@author: uidq9144
-"""
-
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QLabel, QInputDialog, QLineEdit
 from PyQt5.QtGui import QIcon, QPixmap
